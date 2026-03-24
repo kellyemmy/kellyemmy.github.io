@@ -19,8 +19,3 @@ This portfolio was intentionally built without heavy frameworks to demonstrate c
 * **Enterprise Risk Management (ERM) Platform:** A high-fidelity B2B interactive dashboard for security audits, featuring dynamic routing and complex form validation.
 * **Kaycee Gadgets (In Development):** A responsive e-commerce storefront focusing on clean product layouts and seamless user flow.
 
-## 💻 Running Locally
-To view this project on your local machine:
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/kellyemmy/portfolio.git](https://github.com/kellyemmy/portfolio.git)
